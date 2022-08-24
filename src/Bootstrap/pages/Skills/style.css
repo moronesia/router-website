@@ -1,0 +1,16 @@
+h1.satu {
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 30px;
+  }
+  
+  .card-body {
+    box-shadow: 7px 5px 5px;
+    border-radius: 8px;
+  }
+  
+  h5.card-title {
+    color: #EF4D06;
+    font-size: 25px;
+    font-weight: bold;
+  }

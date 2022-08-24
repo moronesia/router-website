@@ -1,10 +1,10 @@
-import Bootstrap from "../src/Bootstrap";
+import Index from "./Bootstrap/pages";
 
 
 function App() {
   return (
     <div className="App">
-      <Bootstrap />
+      <Index />
     </div>
   );
 }

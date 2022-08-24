@@ -1,0 +1,28 @@
+form {
+
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 5px;
+   }
+   
+   label.form-label {
+     font-family: sans-serif;
+     color: #fff;
+   }
+   
+   h1.empat {
+     text-align: center;
+     padding-top: 70px;
+     margin-bottom: 30px;
+   }
+   
+   button.btn.tombol.mb-3 {
+     background-color: #EF4D06;
+     font-family: sans-serif;
+     font-weight: inherit;
+     border: none;
+   }
+   
+   button.btn.tombol.mb-3:hover{
+     color: #fff;
+   }
